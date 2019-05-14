@@ -1,0 +1,2138 @@
+[
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Afghanistan",
+   "codePays": "AFG",
+   "donnees2017": "62.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Albania",
+   "codePays": "ALB",
+   "donnees2017": "76.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Algeria",
+   "codePays": "DZA",
+   "donnees2017": "75"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "American Samoa",
+   "codePays": "ASM",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Andorra",
+   "codePays": "AND",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Angola",
+   "codePays": "AGO",
+   "donnees2017": "58.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Antigua and Barbuda",
+   "codePays": "ATG",
+   "donnees2017": "73.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Arab World",
+   "codePays": "ARB",
+   "donnees2017": "69.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Argentina",
+   "codePays": "ARG",
+   "donnees2017": "72.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Armenia",
+   "codePays": "ARM",
+   "donnees2017": "71.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Aruba",
+   "codePays": "ABW",
+   "donnees2017": "73.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Australia",
+   "codePays": "AUS",
+   "donnees2017": "80.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Austria",
+   "codePays": "AUT",
+   "donnees2017": "79.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Azerbaijan",
+   "codePays": "AZE",
+   "donnees2017": "69"
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Bahamas, The\",BHS,72.7",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Bahrain",
+   "codePays": "BHR",
+   "donnees2017": "76.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Bangladesh",
+   "codePays": "BGD",
+   "donnees2017": "71.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Barbados",
+   "codePays": "BRB",
+   "donnees2017": "73.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Belarus",
+   "codePays": "BLR",
+   "donnees2017": "69.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Belgium",
+   "codePays": "BEL",
+   "donnees2017": "79"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Belize",
+   "codePays": "BLZ",
+   "donnees2017": "67.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Benin",
+   "codePays": "BEN",
+   "donnees2017": "59.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Bermuda",
+   "codePays": "BMU",
+   "donnees2017": "77.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Bhutan",
+   "codePays": "BTN",
+   "donnees2017": "70.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Bolivia",
+   "codePays": "BOL",
+   "donnees2017": "67"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Bosnia and Herzegovina",
+   "codePays": "BIH",
+   "donnees2017": "74.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Botswana",
+   "codePays": "BWA",
+   "donnees2017": "64.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Brazil",
+   "codePays": "BRA",
+   "donnees2017": "72.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "British Virgin Islands",
+   "codePays": "VGB",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Brunei Darussalam",
+   "codePays": "BRN",
+   "donnees2017": "75.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Bulgaria",
+   "codePays": "BGR",
+   "donnees2017": "71.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Burkina Faso",
+   "codePays": "BFA",
+   "donnees2017": "59.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Burundi",
+   "codePays": "BDI",
+   "donnees2017": "55.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Cabo Verde",
+   "codePays": "CPV",
+   "donnees2017": "70.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Cambodia",
+   "codePays": "KHM",
+   "donnees2017": "67.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Cameroon",
+   "codePays": "CMR",
+   "donnees2017": "57.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Canada",
+   "codePays": "CAN",
+   "donnees2017": "80.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Caribbean small states",
+   "codePays": "CSS",
+   "donnees2017": "70.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Cayman Islands",
+   "codePays": "CYM",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Central African Republic",
+   "codePays": "CAF",
+   "donnees2017": "50.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Central Europe and the Baltics",
+   "codePays": "CEB",
+   "donnees2017": "73.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Chad",
+   "codePays": "TCD",
+   "donnees2017": "51.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Channel Islands",
+   "codePays": "CHI",
+   "donnees2017": "79.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Chile",
+   "codePays": "CHL",
+   "donnees2017": "77.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "China",
+   "codePays": "CHN",
+   "donnees2017": "74.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Colombia",
+   "codePays": "COL",
+   "donnees2017": "71"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Comoros",
+   "codePays": "COM",
+   "donnees2017": "62.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Congo, Dem. Rep.\",COD,58.5",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Congo, Rep.\",COG,63.5",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Costa Rica",
+   "codePays": "CRI",
+   "donnees2017": "77.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Cote d'Ivoire",
+   "codePays": "CIV",
+   "donnees2017": "52.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Croatia",
+   "codePays": "HRV",
+   "donnees2017": "74.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Cuba",
+   "codePays": "CUB",
+   "donnees2017": "77.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Curacao",
+   "codePays": "CUW",
+   "donnees2017": "74.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Cyprus",
+   "codePays": "CYP",
+   "donnees2017": "78.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Czech Republic",
+   "codePays": "CZE",
+   "donnees2017": "76.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Denmark",
+   "codePays": "DNK",
+   "donnees2017": "79.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Djibouti",
+   "codePays": "DJI",
+   "donnees2017": "60.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Dominica",
+   "codePays": "DMA",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Dominican Republic",
+   "codePays": "DOM",
+   "donnees2017": "70.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Early-demographic dividend",
+   "codePays": "EAR",
+   "donnees2017": "68.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "East Asia & Pacific",
+   "codePays": "EAS",
+   "donnees2017": "73.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "East Asia & Pacific (excluding high income)",
+   "codePays": "EAP",
+   "donnees2017": "72.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "East Asia & Pacific (IDA & IBRD)",
+   "codePays": "TEA",
+   "donnees2017": "72.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Ecuador",
+   "codePays": "ECU",
+   "donnees2017": "73.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Egypt, Arab Rep.\",EGY,69.5",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "El Salvador",
+   "codePays": "SLV",
+   "donnees2017": "69"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Equatorial Guinea",
+   "codePays": "GNQ",
+   "donnees2017": "56.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Eritrea",
+   "codePays": "ERI",
+   "donnees2017": "63.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Estonia",
+   "codePays": "EST",
+   "donnees2017": "73.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Eswatini",
+   "codePays": "SWZ",
+   "donnees2017": "54.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Ethiopia",
+   "codePays": "ETH",
+   "donnees2017": "63.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Euro area",
+   "codePays": "EMU",
+   "donnees2017": "79.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Europe & Central Asia",
+   "codePays": "ECS",
+   "donnees2017": "74.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Europe & Central Asia (excluding high income)",
+   "codePays": "ECA",
+   "donnees2017": "69.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Europe & Central Asia (IDA & IBRD)",
+   "codePays": "TEC",
+   "donnees2017": "69.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "European Union",
+   "codePays": "EUU",
+   "donnees2017": "78.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Faroe Islands",
+   "codePays": "FRO",
+   "donnees2017": "80.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Fiji",
+   "codePays": "FJI",
+   "donnees2017": "67.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Finland",
+   "codePays": "FIN",
+   "donnees2017": "78.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Fragile and conflict affected situations",
+   "codePays": "FCS",
+   "donnees2017": "61"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "France",
+   "codePays": "FRA",
+   "donnees2017": "79.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "French Polynesia",
+   "codePays": "PYF",
+   "donnees2017": "74.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Gabon",
+   "codePays": "GAB",
+   "donnees2017": "64.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Gambia, The\",GMB,60",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Georgia",
+   "codePays": "GEO",
+   "donnees2017": "69"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Germany",
+   "codePays": "DEU",
+   "donnees2017": "78.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Ghana",
+   "codePays": "GHA",
+   "donnees2017": "61.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Gibraltar",
+   "codePays": "GIB",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Greece",
+   "codePays": "GRC",
+   "donnees2017": "78.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Greenland",
+   "codePays": "GRL",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Grenada",
+   "codePays": "GRD",
+   "donnees2017": "71.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Guam",
+   "codePays": "GUM",
+   "donnees2017": "77.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Guatemala",
+   "codePays": "GTM",
+   "donnees2017": "70.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Guinea",
+   "codePays": "GIN",
+   "donnees2017": "60.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Guinea-Bissau",
+   "codePays": "GNB",
+   "donnees2017": "56"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Guyana",
+   "codePays": "GUY",
+   "donnees2017": "64.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Haiti",
+   "codePays": "HTI",
+   "donnees2017": "61.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Heavily indebted poor countries (HIPC)",
+   "codePays": "HPC",
+   "donnees2017": "60.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "High income",
+   "codePays": "HIC",
+   "donnees2017": "77.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Honduras",
+   "codePays": "HND",
+   "donnees2017": "71.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Hong Kong SAR, China\",HKG,81.9",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Hungary",
+   "codePays": "HUN",
+   "donnees2017": "72.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "IBRD only",
+   "codePays": "IBD",
+   "donnees2017": "70.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Iceland",
+   "codePays": "ISL",
+   "donnees2017": "80.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "IDA & IBRD total",
+   "codePays": "IBT",
+   "donnees2017": "68.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "IDA blend",
+   "codePays": "IDB",
+   "donnees2017": "60.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "IDA only",
+   "codePays": "IDX",
+   "donnees2017": "63.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "IDA total",
+   "codePays": "IDA",
+   "donnees2017": "62.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "India",
+   "codePays": "IND",
+   "donnees2017": "67.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Indonesia",
+   "codePays": "IDN",
+   "donnees2017": "67.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Iran, Islamic Rep.\",IRN,75",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Iraq",
+   "codePays": "IRQ",
+   "donnees2017": "67.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Ireland",
+   "codePays": "IRL",
+   "donnees2017": "80.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Isle of Man",
+   "codePays": "IMN",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Israel",
+   "codePays": "ISR",
+   "donnees2017": "80.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Italy",
+   "codePays": "ITA",
+   "donnees2017": "81"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Jamaica",
+   "codePays": "JAM",
+   "donnees2017": "73.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Japan",
+   "codePays": "JPN",
+   "donnees2017": "81"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Jordan",
+   "codePays": "JOR",
+   "donnees2017": "72.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Kazakhstan",
+   "codePays": "KAZ",
+   "donnees2017": "68.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Kenya",
+   "codePays": "KEN",
+   "donnees2017": "64.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Kiribati",
+   "codePays": "KIR",
+   "donnees2017": "63.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Korea, Dem. People's Rep.\",PRK,68.3",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Korea, Rep.\",KOR,79.7",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Kosovo",
+   "codePays": "XKX",
+   "donnees2017": "69.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Kuwait",
+   "codePays": "KWT",
+   "donnees2017": "73.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Kyrgyz Republic",
+   "codePays": "KGZ",
+   "donnees2017": "67.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Lao PDR",
+   "codePays": "LAO",
+   "donnees2017": "65.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Late-demographic dividend",
+   "codePays": "LTE",
+   "donnees2017": "73.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Latin America & Caribbean",
+   "codePays": "LCN",
+   "donnees2017": "72.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Latin America & Caribbean (excluding high income)",
+   "codePays": "LAC",
+   "donnees2017": "72.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Latin America & Caribbean (IDA & IBRD)",
+   "codePays": "TLA",
+   "donnees2017": "72.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Latvia",
+   "codePays": "LVA",
+   "donnees2017": "69.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Least developed countries: UN classification",
+   "codePays": "LDC",
+   "donnees2017": "63.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Lebanon",
+   "codePays": "LBN",
+   "donnees2017": "78.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Lesotho",
+   "codePays": "LSO",
+   "donnees2017": "52.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Liberia",
+   "codePays": "LBR",
+   "donnees2017": "61.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Libya",
+   "codePays": "LBY",
+   "donnees2017": "69.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Liechtenstein",
+   "codePays": "LIE",
+   "donnees2017": "80.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Lithuania",
+   "codePays": "LTU",
+   "donnees2017": "69.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Low & middle income",
+   "codePays": "LMY",
+   "donnees2017": "68.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Low income",
+   "codePays": "LIC",
+   "donnees2017": "61.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Lower middle income",
+   "codePays": "LMC",
+   "donnees2017": "66.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Luxembourg",
+   "codePays": "LUX",
+   "donnees2017": "80.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Macao SAR, China\",MAC,81",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Madagascar",
+   "codePays": "MDG",
+   "donnees2017": "64.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Malawi",
+   "codePays": "MWI",
+   "donnees2017": "61"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Malaysia",
+   "codePays": "MYS",
+   "donnees2017": "73.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Maldives",
+   "codePays": "MDV",
+   "donnees2017": "76.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Mali",
+   "codePays": "MLI",
+   "donnees2017": "57.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Malta",
+   "codePays": "MLT",
+   "donnees2017": "80.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Marshall Islands",
+   "codePays": "MHL",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Mauritania",
+   "codePays": "MRT",
+   "donnees2017": "61.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Mauritius",
+   "codePays": "MUS",
+   "donnees2017": "71.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Mexico",
+   "codePays": "MEX",
+   "donnees2017": "74.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Micronesia, Fed. Sts.\",FSM,68",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Middle East & North Africa",
+   "codePays": "MEA",
+   "donnees2017": "72"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Middle East & North Africa (excluding high income)",
+   "codePays": "MNA",
+   "donnees2017": "71"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Middle East & North Africa (IDA & IBRD)",
+   "codePays": "TMN",
+   "donnees2017": "71.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Middle income",
+   "codePays": "MIC",
+   "donnees2017": "69.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Moldova",
+   "codePays": "MDA",
+   "donnees2017": "67.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Monaco",
+   "codePays": "MCO",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Mongolia",
+   "codePays": "MNG",
+   "donnees2017": "65.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Montenegro",
+   "codePays": "MNE",
+   "donnees2017": "74.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Morocco",
+   "codePays": "MAR",
+   "donnees2017": "74.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Mozambique",
+   "codePays": "MOZ",
+   "donnees2017": "56.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Myanmar",
+   "codePays": "MMR",
+   "donnees2017": "64.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Namibia",
+   "codePays": "NAM",
+   "donnees2017": "61.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Nauru",
+   "codePays": "NRU",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Nepal",
+   "codePays": "NPL",
+   "donnees2017": "68.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Netherlands",
+   "codePays": "NLD",
+   "donnees2017": "80"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "New Caledonia",
+   "codePays": "NCL",
+   "donnees2017": "75.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "New Zealand",
+   "codePays": "NZL",
+   "donnees2017": "80"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Nicaragua",
+   "codePays": "NIC",
+   "donnees2017": "72.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Niger",
+   "codePays": "NER",
+   "donnees2017": "59.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Nigeria",
+   "codePays": "NGA",
+   "donnees2017": "53.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "North America",
+   "codePays": "NAC",
+   "donnees2017": "76.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "North Macedonia",
+   "codePays": "MKD",
+   "donnees2017": "73.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Northern Mariana Islands",
+   "codePays": "MNP",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Norway",
+   "codePays": "NOR",
+   "donnees2017": "80.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "OECD members",
+   "codePays": "OED",
+   "donnees2017": "77.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Oman",
+   "codePays": "OMN",
+   "donnees2017": "75.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Other small states",
+   "codePays": "OSS",
+   "donnees2017": "66.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Pacific island small states",
+   "codePays": "PSS",
+   "donnees2017": "68.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Pakistan",
+   "codePays": "PAK",
+   "donnees2017": "65.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Palau",
+   "codePays": "PLW",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Panama",
+   "codePays": "PAN",
+   "donnees2017": "75.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Papua New Guinea",
+   "codePays": "PNG",
+   "donnees2017": "63.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Paraguay",
+   "codePays": "PRY",
+   "donnees2017": "71.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Peru",
+   "codePays": "PER",
+   "donnees2017": "72.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Philippines",
+   "codePays": "PHL",
+   "donnees2017": "65.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Poland",
+   "codePays": "POL",
+   "donnees2017": "73.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Portugal",
+   "codePays": "PRT",
+   "donnees2017": "78.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Post-demographic dividend",
+   "codePays": "PST",
+   "donnees2017": "78.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Pre-demographic dividend",
+   "codePays": "PRE",
+   "donnees2017": "58.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Puerto Rico",
+   "codePays": "PRI",
+   "donnees2017": "76.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Qatar",
+   "codePays": "QAT",
+   "donnees2017": "77.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Romania",
+   "codePays": "ROU",
+   "donnees2017": "71.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Russian Federation",
+   "codePays": "RUS",
+   "donnees2017": "67.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Rwanda",
+   "codePays": "RWA",
+   "donnees2017": "65.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Samoa",
+   "codePays": "WSM",
+   "donnees2017": "72.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "San Marino",
+   "codePays": "SMR",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Sao Tome and Principe",
+   "codePays": "STP",
+   "donnees2017": "64.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Saudi Arabia",
+   "codePays": "SAU",
+   "donnees2017": "73.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Senegal",
+   "codePays": "SEN",
+   "donnees2017": "65.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Serbia",
+   "codePays": "SRB",
+   "donnees2017": "73.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Seychelles",
+   "codePays": "SYC",
+   "donnees2017": "70.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Sierra Leone",
+   "codePays": "SLE",
+   "donnees2017": "51.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Singapore",
+   "codePays": "SGP",
+   "donnees2017": "80.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Sint Maarten (Dutch part)",
+   "codePays": "SXM",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Slovak Republic",
+   "codePays": "SVK",
+   "donnees2017": "73.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Slovenia",
+   "codePays": "SVN",
+   "donnees2017": "78.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Small states",
+   "codePays": "SST",
+   "donnees2017": "67.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Solomon Islands",
+   "codePays": "SLB",
+   "donnees2017": "69.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Somalia",
+   "codePays": "SOM",
+   "donnees2017": "55"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "South Africa",
+   "codePays": "ZAF",
+   "donnees2017": "59.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "South Asia",
+   "codePays": "SAS",
+   "donnees2017": "67.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "South Asia (IDA & IBRD)",
+   "codePays": "TSA",
+   "donnees2017": "67.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "South Sudan",
+   "codePays": "SSD",
+   "donnees2017": "56.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Spain",
+   "codePays": "ESP",
+   "donnees2017": "80.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Sri Lanka",
+   "codePays": "LKA",
+   "donnees2017": "72.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "St. Kitts and Nevis",
+   "codePays": "KNA",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "St. Lucia",
+   "codePays": "LCA",
+   "donnees2017": "73"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "St. Martin (French part)",
+   "codePays": "MAF",
+   "donnees2017": "76.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "St. Vincent and the Grenadines",
+   "codePays": "VCT",
+   "donnees2017": "71.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Sub-Saharan Africa",
+   "codePays": "SSF",
+   "donnees2017": "59.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Sub-Saharan Africa (excluding high income)",
+   "codePays": "SSA",
+   "donnees2017": "59.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Sub-Saharan Africa (IDA & IBRD)",
+   "codePays": "TSS",
+   "donnees2017": "59.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Sudan",
+   "codePays": "SDN",
+   "donnees2017": "63"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Suriname",
+   "codePays": "SUR",
+   "donnees2017": "68.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Sweden",
+   "codePays": "SWE",
+   "donnees2017": "80.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Switzerland",
+   "codePays": "CHE",
+   "donnees2017": "81.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Syrian Arab Republic",
+   "codePays": "SYR",
+   "donnees2017": "65.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Tajikistan",
+   "codePays": "TJK",
+   "donnees2017": "68.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Tanzania",
+   "codePays": "TZA",
+   "donnees2017": "64.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Thailand",
+   "codePays": "THA",
+   "donnees2017": "71.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Timor-Leste",
+   "codePays": "TLS",
+   "donnees2017": "67.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Togo",
+   "codePays": "TGO",
+   "donnees2017": "59.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Tonga",
+   "codePays": "TON",
+   "donnees2017": "70.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Trinidad and Tobago",
+   "codePays": "TTO",
+   "donnees2017": "67.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Tunisia",
+   "codePays": "TUN",
+   "donnees2017": "73.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Turkey",
+   "codePays": "TUR",
+   "donnees2017": "72.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Turkmenistan",
+   "codePays": "TKM",
+   "donnees2017": "64.5"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Turks and Caicos Islands",
+   "codePays": "TCA",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Tuvalu",
+   "codePays": "TUV",
+   "donnees2017": ".."
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Uganda",
+   "codePays": "UGA",
+   "donnees2017": "57.9"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Ukraine",
+   "codePays": "UKR",
+   "donnees2017": "67"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "United Arab Emirates",
+   "codePays": "ARE",
+   "donnees2017": "76.7"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "United Kingdom",
+   "codePays": "GBR",
+   "donnees2017": "79.4"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "United States",
+   "codePays": "USA",
+   "donnees2017": "76.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Upper middle income",
+   "codePays": "UMC",
+   "donnees2017": "73.3"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Uruguay",
+   "codePays": "URY",
+   "donnees2017": "74"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Uzbekistan",
+   "codePays": "UZB",
+   "donnees2017": "68.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Vanuatu",
+   "codePays": "VUT",
+   "donnees2017": "70.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Venezuela, RB\",VEN,70.8",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Vietnam",
+   "codePays": "VNM",
+   "donnees2017": "71.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Virgin Islands (U.S.)",
+   "codePays": "VIR",
+   "donnees2017": "76.2"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "West Bank and Gaza",
+   "codePays": "PSE",
+   "donnees2017": "71.8"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "World",
+   "codePays": "WLD",
+   "donnees2017": "70.1"
+ },
+ {
+   "nomEtude": "Life expectancy at birth, male (years),SP.DYN.LE00.MA.IN,\"Yemen, Rep.\",YEM,63.7",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Zambia",
+   "codePays": "ZMB",
+   "donnees2017": "59.6"
+ },
+ {
+   "nomEtude": "Life expectancy at birth",
+   "complement1": " male (years)",
+   "complement2": "SP.DYN.LE00.MA.IN",
+   "nomPays": "Zimbabwe",
+   "codePays": "ZWE",
+   "donnees2017": "59.8"
+ },
+ {
+   "nomEtude": "",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Data from database: Gender Statistics",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ },
+ {
+   "nomEtude": "Last Updated: 04/26/2019",
+   "complement1": "",
+   "complement2": "",
+   "nomPays": "",
+   "codePays": "",
+   "donnees2017": ""
+ }
+]
